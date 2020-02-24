@@ -1,0 +1,11 @@
+D:\projects\c#\determinantThreeOnTree\obj\Debug\netcoreapp3.1\determinantThreeOnTree.csprojAssemblyReference.cache
+D:\projects\c#\determinantThreeOnTree\obj\Debug\netcoreapp3.1\determinantThreeOnTree.AssemblyInfoInputs.cache
+D:\projects\c#\determinantThreeOnTree\obj\Debug\netcoreapp3.1\determinantThreeOnTree.AssemblyInfo.cs
+D:\projects\c#\determinantThreeOnTree\bin\Debug\netcoreapp3.1\determinantThreeOnTree.exe
+D:\projects\c#\determinantThreeOnTree\bin\Debug\netcoreapp3.1\determinantThreeOnTree.deps.json
+D:\projects\c#\determinantThreeOnTree\bin\Debug\netcoreapp3.1\determinantThreeOnTree.runtimeconfig.json
+D:\projects\c#\determinantThreeOnTree\bin\Debug\netcoreapp3.1\determinantThreeOnTree.runtimeconfig.dev.json
+D:\projects\c#\determinantThreeOnTree\bin\Debug\netcoreapp3.1\determinantThreeOnTree.dll
+D:\projects\c#\determinantThreeOnTree\bin\Debug\netcoreapp3.1\determinantThreeOnTree.pdb
+D:\projects\c#\determinantThreeOnTree\obj\Debug\netcoreapp3.1\determinantThreeOnTree.dll
+D:\projects\c#\determinantThreeOnTree\obj\Debug\netcoreapp3.1\determinantThreeOnTree.pdb
